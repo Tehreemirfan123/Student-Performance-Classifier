@@ -1,6 +1,4 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)<br>
-![Tehreem](https://img.shields.io/badge/TehreemIrfan-0090-blue)
-
 # 🎓 Student Performance Classifier
 
 This project is a machine learning pipeline that predicts student performance levels based on various academic and background features. The final model classifies a student's final grade (`G3`) into letter grades: **A, B, C, D, or F**.
