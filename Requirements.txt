@@ -1,0 +1,11 @@
+# This file is just added for formality to tell the libraries and techniques used in project
+## Used in the project
+flask
+flask-cors
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn 
+imbalanced-learn 
+joblib
