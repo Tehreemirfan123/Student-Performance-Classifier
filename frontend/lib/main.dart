@@ -14,7 +14,7 @@ class StudentPerformanceApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Student Performance Classifier',
       theme: ThemeData(
-        primarySwatch: Colors.pink, // or Colors.brown, Colors.deepOrange, etc.
+        primarySwatch: Colors.blue, // or Colors.brown, Colors.deepOrange, etc.
       ),
       home: const HomeScreen(),
     );
